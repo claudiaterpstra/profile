@@ -1,0 +1,70 @@
+body {
+  font-family: "Poppins";
+  background-color: #f7eff0;
+  color: rgb(100,100,100);
+}
+
+td > img {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 16px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+p {
+  font-size: 13px;
+}
+
+thead {
+  font-size: 15px;
+}
+
+.images {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
+
+.container {
+  width: 600px;
+  margin: 0px auto;
+}
+
+.card {
+  background-color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.countries {
+  padding: 10px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  text-align: center;
+}
+
+.blue-button {
+  font-family: "Poppins";
+  text-decoration: none;
+  text-align: center;
+  background-color: #e6e9f4;
+  padding: 0px 10px;
+  color: rgb(50,50,50);
+}
+
